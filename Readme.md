@@ -1,11 +1,13 @@
 AI CUP 2020 - 醫病資料去識別化
 ===
 
-## Table of Contents
+Members
+---
+* 黃彥穎 Aaron Huang 
+* 唐岳 Ray
 
-[TOC]
-
-## Competition introduction
+Competition introduction
+---
 
 #### Medical information decision analysis and dialogue data construction system
 
