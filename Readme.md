@@ -1,13 +1,5 @@
----
-title: 'Project documentation template'
-disqus: hackmd
----
-
 AI CUP 2020 - 醫病資料去識別化
 ===
-![downloads](https://img.shields.io/github/downloads/atom/atom/total.svg)
-![build](https://img.shields.io/appveyor/ci/:user/:repo.svg)
-![chat](https://img.shields.io/discord/:serverId.svg)
 
 ## Table of Contents
 
